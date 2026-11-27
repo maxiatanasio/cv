@@ -66,6 +66,11 @@ Led development of web and backend systems, CI/CD pipelines, and cloud-hosted ap
 | Cloud & delivery | AWS, GCP, Docker, CI/CD |
 | AI development | Claude Code, MCP concepts, agentic workflows |
 
+## Certifications
+
+- [Claude Certified Developer - Professional](https://www.credly.com/badges/8db00243-3787-4a24-8f06-812999d6c69d) — Anthropic.
+- [Claude Certified Developer - Foundations](https://www.credly.com/badges/07da4fb1-db16-4bc5-bd92-57f092ce7e4a) — Anthropic.
+
 ## Education
 
 Information Systems Engineering studies at **Universidad Nacional de La Matanza** — degree not completed.
